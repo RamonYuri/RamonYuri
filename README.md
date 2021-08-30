@@ -1,7 +1,7 @@
 ## Hello world! Eu sou o Ramon Yuri
 
 - 🔭 Hoje trabalho com prevenção de perdas
-- 🌱 Estudando Golang
+- 📚 Estudando Golang
 - 😄 Pronouns: ele/dele
 
  <div>
